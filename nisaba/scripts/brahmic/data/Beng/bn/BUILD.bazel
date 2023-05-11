@@ -28,6 +28,7 @@ components_tsv_local(
     names = [
         "before_consonant",
         "after_consonant",
+        "reading_norm",
     ],
     uname_prefix_from = "//nisaba/scripts/brahmic/data/Beng",
 )

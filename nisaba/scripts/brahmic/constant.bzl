@@ -45,6 +45,7 @@ VISUAL_NORM_LANGS = [
 ]
 
 READING_NORM_LANGS = [
+    ("Beng", "bn"),
     ("Deva", "hi"),
     # Following entries are not language-specific
     ("Lepc", ""),

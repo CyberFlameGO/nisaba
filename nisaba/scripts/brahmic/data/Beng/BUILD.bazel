@@ -35,6 +35,7 @@ exports_files(["uname_prefix.textproto"])
 empty_components_tsv(names = [
     "accept",
     "standalone",
+    "reading_norm",
     "subjoined_consonant",
     "vowel_length_sign",
 ])
